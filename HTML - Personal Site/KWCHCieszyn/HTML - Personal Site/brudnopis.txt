@@ -1,0 +1,23 @@
+# zamiana w tabelke. Czemu wszystko w jednej linii ?
+
+  <div class="linki" <table>
+    <tr>
+      <th> <a href="Godziny.html">Godziny otwarcia</a> </th>
+    </tr>
+    <tr>
+      <th>
+        <a href="Zasady wiary.html"> Zasady wiary KWCH</a>
+      </th>
+
+    </tr>
+    <tr>
+      <td>
+        <a href="kontakt.html"> Kontakt</a>
+      </td>
+
+      <td>
+        <a href="Multimedia.html"> Multimedia</a>
+      </td>
+    </tr>
+
+    </table>
