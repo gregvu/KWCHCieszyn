@@ -83,7 +83,6 @@ div {
 	padding:12px 44px;
 	text-decoration:none;
 	text-shadow:0 1px 0 #528ecc;
-  width: 10%;
 }
 .myButton:hover {
 	background:linear-gradient(to bottom, #378de5 5%, #79bbff 100%);
