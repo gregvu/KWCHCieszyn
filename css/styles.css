@@ -4,6 +4,7 @@ body{
 
 html {
   scroll-behavior:  smooth;
+
 }
 
 #title {
@@ -148,7 +149,7 @@ h4
 
 @media (max-width: 623px) {
     html {
-        font-size: 8px;
+        font-size: 18px;
 
     }
 }
