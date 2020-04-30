@@ -3,7 +3,7 @@ body{
 }
 
 html {
-  scroll-behavior:  smooth;
+  scroll-behavior: smooth;
 
 }
 
@@ -15,6 +15,9 @@ html {
 
 .container-fluid {
 padding: 3% 15%;
+p {
+  font-size:3vw
+}
 }
 h2,h3,h4,h5,h6
 {
@@ -25,6 +28,7 @@ h1 {
     font-family: 'Montserrat-Black', sans-serif;
     font-size: 3.5rem;
     line-height: 1.5;
+    font-size:4vw
 }
 
 h2 {
@@ -37,26 +41,33 @@ h2 {
 h3 {
 
   color: #d4af37;
+  font-size:2vw
 }
 
 h4
 {
 
   color: #d4af37;
+  font-size:2vw
 }
 .nowrap {
   white-space: nowrap ;
+}
+.row
+{
+  position: 20% 10% 20% 10%;
 }
 .tytul
 {
   padding: 20%;
   padding-left: 0;
-  margin: -230px;
+  margin: -20%;
 }
 .navbar
 {
-  padding: 0% 40%;
-  position: fixed;
+  padding: 0 40%;
+  /*position: fixed;*/
+
 
 }
 .navbar-brand
