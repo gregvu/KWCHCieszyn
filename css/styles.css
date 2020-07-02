@@ -31,8 +31,6 @@ h1 {
 
     width: 180%;
     padding-top: 20%;
-    padding-bottom: 160%;
-    text-align: center;
     position: absolute;
     color: #000;
 }
@@ -46,7 +44,7 @@ h2 {
 
 h3 {
   padding:  5% 7% 10% 5%;
-  font-size:2vw;
+
   color: #000;
 
 }
@@ -55,6 +53,11 @@ h4
 {
   color: #000;
   font-size:2vw
+}
+
+.tytul
+{
+  padding-bottom: 10%;
 }
 .nowrap {
   white-space: nowrap ;
@@ -103,6 +106,7 @@ h4
 #features {
 
   padding: 15%;
+  margin-top: 15%;
   /* background-color: #000;*/
   color: #fff;
 
