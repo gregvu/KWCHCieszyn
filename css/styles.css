@@ -32,8 +32,11 @@ h1 {
     width: 180%;
     padding-top: 20%;
     position: absolute;
+    text-align:left;
     color: #000;
 }
+
+
 
 h2 {
 
@@ -58,6 +61,7 @@ h4
 .tytul
 {
   padding-bottom: 10%;
+  text-align: left;
 }
 .nowrap {
   white-space: nowrap ;
@@ -165,7 +169,7 @@ h4
 
 #footer {
   padding: 7% 15%;
-
+  text-align: center;
 }
 
 
